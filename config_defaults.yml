@@ -30,6 +30,8 @@ Gemfile:
         version: '>= 1.2.0'
       - gem: puppet-strings
         version: '>= 2.2'
+Rakefile:
+  config.user: voxpupuli
 .puppet-lint.rc:
   disabled_lint_checks:
     - parameter_documentation
