@@ -20,7 +20,6 @@
 - puppet-openvpnas
 - puppet-pi
 - puppet-powertop
-- puppet-rke
 - puppet-rke2
 - puppet-s3daemon
 - puppet-s3nd
