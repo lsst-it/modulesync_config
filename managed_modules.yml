@@ -21,7 +21,6 @@
 - puppet-pi
 - puppet-powertop
 - puppet-rke2
-- puppet-s3daemon
 - puppet-s3nd
 - puppet-smee
 ...
